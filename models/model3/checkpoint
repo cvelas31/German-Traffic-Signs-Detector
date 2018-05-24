@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\UNIVERSIDAD\\EXTERNAS\\RETO_KIWI_DEEP_LEARNING\\German Traffic Signs Detector\\models\\model3\\german_lenet.ckpt"
+all_model_checkpoint_paths: "D:\\UNIVERSIDAD\\EXTERNAS\\RETO_KIWI_DEEP_LEARNING\\German Traffic Signs Detector\\models\\model3\\german_lenet.ckpt"
